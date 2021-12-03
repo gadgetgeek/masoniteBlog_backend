@@ -1,0 +1,6 @@
+2021-12-03 19:11:41 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-03 19:11:41 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-03 19:57:25 - INFO - "GET /blog HTTP/1.1" 200 468
+2021-12-03 20:00:24 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-03 20:00:24 - ERROR - "POST /blog HTTP/1.1" 500 967475
+2021-12-03 20:01:58 - ERROR - ContainerError in 0 on line 0
